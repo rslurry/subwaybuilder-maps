@@ -2,12 +2,12 @@
   "schema_version": 1,
   "versions": [
     {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "game_version": ">=1.0.0",
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "changelog": "Realistic demand data using 2023 LODES.",
       "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.0/SBA.zip",
-      "sha256": "245bc8ecd9bd3eb30a530b60f6e9730e468716e1ed2a0219a65159f7f2ac3d6a"
+      "sha256": "8c7e15c5fa31e73dd3e9b40585fe41ae125d106bba0860a16039425ac7f3383e"
     }
   ]
 }
