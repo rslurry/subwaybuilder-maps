@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-13",
+      "changelog": "Realistic demand data using 2023 LODES.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.0/LAX.zip",
+      "sha256": "c50d68b569eb0edade342fd17d96f6e636be93e0697dee8de39601836a67719a"
+    }
+  ]
+}
