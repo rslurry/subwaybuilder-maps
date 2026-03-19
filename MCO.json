@@ -2,12 +2,12 @@
   "schema_version": 1,
   "versions": [
     {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "game_version": ">=1.0.0",
       "date": "2026-02-27",
       "changelog": "Realistic demand data using 2023 LODES.",
       "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.0/MCO.zip",
-      "sha256": "a3e6897d1d89a1ef38a7d71b9e373bac3ee9a3f0c6f9e2e19bc6067c227d2275"
+      "sha256": "78092950577c535576d2dc3b13f5ff3a61fdeb61a359023ecd486d5b8be747ef"
     }
   ]
 }
