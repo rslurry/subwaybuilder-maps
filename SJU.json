@@ -7,7 +7,7 @@
       "date": "2026-03-20",
       "changelog": "Uses US Census data for residences, and US Census data-informed jobs distributed according to OSM",
       "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.0/SJU.zip",
-      "sha256": "c056a731b67f349a060b4fb159377874e04ac7b443090d8e07f132148f5f939d"
+      "sha256": "e3c6bf3d319439fc3eb2ee1dc7d4b7ad54e0599b63ff7fb0a614d695148ebe04"
     }
   ]
 }
