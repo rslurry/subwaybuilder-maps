@@ -2,20 +2,20 @@
   "schema_version": 1,
   "versions": [
     {
-      "version": "1.0.0",
-      "game_version": ">=1.0.0",
-      "date": "2026-04-03",
-      "changelog": "Combined result of INEGI's DENUE, CE, CPV, and ENOE data.  Covers from Montemorelos in the southeast to Hidalgo in the northwest.",
-      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.1/MTY.zip",
-      "sha256": "260a804d985ebc7028c3b55548f54f9bcab07dc286ed29fd306970a864603feb"
-    },
-    {
       "version": "1.0.1",
       "game_version": ">=1.0.0",
       "date": "2026-04-03",
       "changelog": "Fixed demand data.",
       "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.2/MTY.zip",
       "sha256": "4c03f41bf27988e6499ec24e32573a9baa8f4cb9b7a24cc78e62d0b28a8c8822"
+    },
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-03",
+      "changelog": "Combined result of INEGI's DENUE, CE, CPV, and ENOE data.  Covers from Montemorelos in the southeast to Hidalgo in the northwest.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.1/MTY.zip",
+      "sha256": "260a804d985ebc7028c3b55548f54f9bcab07dc286ed29fd306970a864603feb"
     }
   ]
 }
