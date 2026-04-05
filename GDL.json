@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-05",
+      "changelog": "Combined result of INEGI's DENUE, CE, CPV, and ENOE data.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.2/GDL.zip",
+      "sha256": "77f0a9431d3166ba3e334303f64c2aa79cb226c4bb95f4db2a8019c62fd57b86"
+    }
+  ]
+}
