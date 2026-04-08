@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-08",
+      "changelog": "Improved pmtiles performance.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.3/GDL.zip",
+      "sha256": "2b45411f1b2d8237fe781e95dffc02f41375f8ceb66678aa1b62477a524f2ec6"
+    },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-05",
