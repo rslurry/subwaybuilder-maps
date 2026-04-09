@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-09",
+      "changelog": "Added labels.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.4/GDL.zip",
+      "sha256": "9c454ee9472a5f8e9552b8eeb44d6b1ad6bded512084e3232e4f6b82e833f712"
+    },
+    {
       "version": "1.0.1",
       "game_version": ">=1.0.0",
       "date": "2026-04-08",
