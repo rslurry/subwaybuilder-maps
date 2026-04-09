@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-03",
+      "changelog": "Improved tiles performance. Added labels.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.4/MTY.zip",
+      "sha256": "918b2b473a0ed1aeff89d103f1a6fc9235068ae0d22c50a6528e37781dbeedbc"
+    },
+    {
       "version": "1.0.1",
       "game_version": ">=1.0.0",
       "date": "2026-04-03",
