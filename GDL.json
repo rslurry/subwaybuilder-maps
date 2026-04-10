@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-09",
+      "changelog": "Fixed airport terminal names.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.5/GDL.zip",
+      "sha256": "328ab00e395518679179d63b60d54d51ae4c843cc0c628e4e806328f525fe5c5"
+    },
+    {
       "version": "1.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-09",
