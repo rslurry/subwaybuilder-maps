@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-09",
+      "changelog": "Fixed airport terminal names.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.5/MTY.zip",
+      "sha256": "5f373e826e107099fb8bacc9ac4c30a79a8e2f557d94ebb9b470d3ecbf8e2dd2"
+    },
+    {
       "version": "1.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-03",
