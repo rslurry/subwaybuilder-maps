@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-09",
+      "changelog": "Fixed airport terminal names.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.5/CDMX.zip",
+      "sha256": "08a6d8fbacb53d614081548a2b536efcb47fed70e1afba9db887102bd27dad1f"
+    },
+    {
       "version": "1.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-09",
