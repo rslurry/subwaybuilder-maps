@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-14",
+      "changelog": "Combined result of INEGI's DENUE, CE, CPV, and ENOE data.  Covers the greater Saltillo area.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.5/SLW.zip",
+      "sha256": "ea3df135279831d623c41a89d85937c0a13c337684600beae20e03fde10caa79"
+    }
+  ]
+}
