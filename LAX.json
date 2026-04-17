@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-16",
+      "changelog": "More optimization.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.6/LAX.zip",
+      "sha256": "c63210af7fb1a3e212df30d15e880ae8d907f5feb25f874ce6402d0542f2feec"
+    },
+    {
       "version": "1.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-16",
