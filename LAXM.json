@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-18",
+      "changelog": "Fix water tiles.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.7/LAXM.zip",
+      "sha256": "d5dc3f77479147106fcaa0e76e338016a5aa18a98d6306515683f30368cd7f0b"
+    },
+    {
       "version": "1.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-16",
