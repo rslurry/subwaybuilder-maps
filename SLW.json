@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-19",
+      "changelog": "Fix water tiles and job demand.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.7/SLW.zip",
+      "sha256": "03190438a59db2386ad8722268359043301a9f7fe8df58e0912206c6ce084b54"
+    },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-14",
