@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-19",
+      "changelog": "250m x 250m population and job data from Helsinki Region Environmental Services Authority HSY.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.7/HEL.zip",
+      "sha256": "060cc9779aa681696df9a731642115a6867d7aae7a388d1801a3469e82996204"
+    }
+  ]
+}
