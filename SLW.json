@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-20",
+      "changelog": "Bugfix for uni demand.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.1.8/SLW.zip",
+      "sha256": "a153ebc03df4da1f73b145366b15a556c5c7e2f775a265e451ba9a5254228d50"
+    },
+    {
       "version": "1.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-19",
