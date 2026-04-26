@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-26",
+      "changelog": "Removed unnecessary tiles, set default building height when data are missing.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.1/HEL.zip",
+      "sha256": "ba102613ea451d5bdc8d30aab6214322d4e98e3761aebf654d2ebe6353b9695c"
+    },
+    {
       "version": "1.1.1",
       "game_version": ">=1.0.0",
       "date": "2026-04-22",
