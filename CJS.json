@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-26",
+      "changelog": "Set default height for pmtiles buildings with missing height data.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.1/CJS.zip",
+      "sha256": "5b1ae4cec67e654ad1bfe6a128797b965721d0d35adff6c3e76f741899d3a036"
+    },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-25",
