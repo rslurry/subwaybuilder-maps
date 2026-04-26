@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-25",
+      "changelog": "Ciudad Juarez is from the combined result of INEGI's DENUE, CE, CPV, and ENOE data. El Paso is from 2023 LODES. Uses BTS Border Crossing/Entry Data.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.0/CJS.zip",
+      "sha256": "e19400b076caeee3abd74c694716e8b18428ad5010aa04ce425e3d4661ded2a4"
+    }
+  ]
+}
