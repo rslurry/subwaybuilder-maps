@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-26",
+      "changelog": "Tile optimizations, building height fixed.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.1/LAXM.zip",
+      "sha256": "01553105ecb53a5e355b454b761accad2f444bb4906bc81c335acf5fea1a67ff"
+    },
+    {
       "version": "1.1.1",
       "game_version": ">=1.0.0",
       "date": "2026-04-18",
