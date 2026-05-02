@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-05-01",
+      "changelog": "Adjusted airport demand, further optimized tiles, set default height for pmtiles buildings with missing height data.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.1/GDL.zip",
+      "sha256": "803c752a0c41ae5337e416283e9d5f4108237110db2aeafa832743d317a9268a"
+    },
+    {
       "version": "1.1.2",
       "game_version": ">=1.0.0",
       "date": "2026-04-21",
