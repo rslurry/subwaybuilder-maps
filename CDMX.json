@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-05-03",
+      "changelog": "Fixed job demand, adjusted airport demand, further optimized tiles, set default height for pmtiles buildings with missing height data.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.1/CDMX.zip",
+      "sha256": "965aac7dde584db1f931952e2e8a665c60d898453e3689926d4de383b7b49ea5"
+    },
+    {
       "version": "1.1.1",
       "game_version": ">=1.0.0",
       "date": "2026-04-09",
