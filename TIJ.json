@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-05-07",
+      "changelog": "Tijuana is from the combined result of INEGI's DENUE, CE, CPV, and ENOE data. San Diego metro area is from 2023 LODES. Uses BTS Border Crossing/Entry Data.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.1/CJS.zip",
+      "sha256": "7c6ea0b9cb1952f6edc1c004f5ada55a6dab8a2c6ea782c2fb9b10cef3485b4d"
+    }
+  ]
+}
