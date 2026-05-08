@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-05-08",
+      "changelog": "Combined result of INEGI's DENUE, CE, CPV, and ENOE data.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.2/CDMC.zip",
+      "sha256": "b5a0158f0f2a38684513373f8c5d64ebfe46eb5576aac1e4a7ac9fe90b3b0be9"
+    }
+  ]
+}
