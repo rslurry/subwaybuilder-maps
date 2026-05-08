@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.0.2",
+      "game_version": ">=1.0.0",
+      "date": "2026-05-07",
+      "changelog": "Border pop bugfix.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.2/CJS.zip",
+      "sha256": "a0f51c0f56c8204450928eeeea3bd12a02b64c56a0152f475b6cb10fbb933e95"
+    },
+    {
       "version": "1.0.1",
       "game_version": ">=1.0.0",
       "date": "2026-04-26",
