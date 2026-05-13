@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-05-13",
+      "changelog": "Rhode Island. Realistic demand data using 2023 LODES.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.2/GPVD.zip",
+      "sha256": "815c4aec22b9091e3346bacad204ad432770342a661537f8104f8ecd5760a1c3"
+    }
+  ]
+}
