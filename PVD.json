@@ -4,10 +4,10 @@
     {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "changelog": "Realistic demand data using 2023 LODES.",
       "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.2/PVD.zip",
-      "sha256": "eaf9e5c987d7b6d566850086dbb78d71a6a1450cc4556c90622ce647cbcb6a02"
+      "sha256": "555ce2d64bc92db626ce815751096dc1aca632d2aa769d479dd803da16cda947"
     }
   ]
 }
