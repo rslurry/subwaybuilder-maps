@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-05-14",
+      "changelog": "Greater Portland area. Realistic demand data using 2023 LODES.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.2/GPDX.zip",
+      "sha256": "94d654f2425e0b1240a88ad72a451ccba5b5b3ada251b8888e22e16b7c9c298c"
+    }
+  ]
+}
