@@ -7,7 +7,7 @@
       "date": "2026-05-17",
       "changelog": "Mexicali is from the combined result of INEGI's DENUE, CE, CPV, ENOE, and ITER data. Imperial Valley and Yuma regions are from 2023 LODES. Uses BTS Border Crossing/Entry Data.",
       "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.2/MXL.zip",
-      "sha256": "3e92d5a75410df550621b2511a3166c2df1b5a079e78929e28ede5e0060c06eb"
+      "sha256": "1381db3865dd35e1593a7d31ba1b371d3403f068009c0b0f6601c263fe632578"
     }
   ]
 }
