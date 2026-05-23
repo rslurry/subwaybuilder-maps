@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-05-22",
+      "changelog": "250m x 250m population and job data from Statistisk sentralbyrå.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.2/OSL.zip",
+      "sha256": "1546ec8a33ec81cb9ac7a63352caf0f2cd32d0af4dabc42915157b7bc1a9c61f"
+    }
+  ]
+}
