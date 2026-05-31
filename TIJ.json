@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.0.2",
+      "game_version": ">=1.0.0",
+      "date": "2026-05-31",
+      "changelog": "TIJ airport.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.3/TIJ.zip",
+      "sha256": "d056f9607dc09ea0f7a1398a1a5aef52d69a7902d95f1f61f1aa45635f1dff17"
+    },
+    {
       "version": "1.0.1",
       "game_version": ">=1.0.0",
       "date": "2026-05-07",
