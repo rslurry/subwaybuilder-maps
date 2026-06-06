@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-06-05",
+      "changelog": "Increased job demand, fixed airport demand, added entertainment demand, and updated tiles.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.3/TPA.zip",
+      "sha256": "4208a9af3b14594c10b5fbaa2de47f6ab541cc1b8c69aae59d0c7889c7095543"
+    },
+    {
       "version": "1.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-02-27",
