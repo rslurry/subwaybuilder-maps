@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.3.3",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-11",
+      "changelog": "Fixed ocean depth index lag. Fixed map layer z fighting. Moved most of the pops that were over water onto land.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.3/TPA.zip",
+      "sha256": "a69290315c81b8bc6fc95635c7cb55786f1fb4a42dba59dc284d140b6a0f000c"
+    },
+    {
       "version": "1.3.2",
       "game_version": ">=1.0.0",
       "date": "2026-07-09",
