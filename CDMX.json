@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.3.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-12",
+      "changelog": "Generated via Depot v1.2. Buildings collision file update. Ocean depth, building foundations, and commercial zone map layers. Special demand schema used for mod integration. Updated tiles.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.4/CDMX.zip",
+      "sha256": "017ea69f32f2f9881c7a628484140ddb56391a17ee4caa2e25e6f4d266e70ccb"
+    },
+    {
       "version": "1.2.0",
       "game_version": ">=1.0.0",
       "date": "2026-05-03",
