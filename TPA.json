@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.3.4",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-12",
+      "changelog": "Clipped all features strictly to bbox. Fixed artifacts at certain zooms caused by clipping park layer by water layer.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.4/TPA.zip",
+      "sha256": "0061d85a86e5908e22ccd4bbf1bd8bd2b02d0cba86adb410e12f5adfa17fbca6"
+    },
+    {
       "version": "1.3.3",
       "game_version": ">=1.0.0",
       "date": "2026-07-11",
