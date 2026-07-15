@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.3.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-15",
+      "changelog": "Generated via Depot v1.2. Buildings collision file update. Ocean depth, building foundations, and commercial zone map layers. Updated tiles.  A few new special demand points.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/LAX.zip",
+      "sha256": "aabeb228dea07696228c88ad207dbc39833f56a87ed28b5ced9c91f476892138"
+    },
+    {
       "version": "1.2.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-26",
