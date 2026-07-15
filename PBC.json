@@ -2,12 +2,12 @@
   "schema_version": 1,
   "versions": [
     {
-      "version": "1.3.0",
+      "version": "1.3.1",
       "game_version": ">=1.0.0",
-      "date": "2026-07-14",
-      "changelog": "Generated via Depot v1.2. Buildings collision file update. Ocean depth, building foundations, and commercial zone map layers. Updated tiles.",
-      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.5/PBC.zip",
-      "sha256": "3cd0f55aebd81bb6c241778fbb463ff13cab46f9fbc4f742591887359b73c408"
+      "date": "2026-07-15",
+      "changelog": "Demand data cleanup.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/PBC.zip",
+      "sha256": "b8a799bf1142a71a9a3b93c0bf33f3afc1b013142fb0b7d2112d07a962b539c1"
     },
     {
       "version": "1.2.0",
