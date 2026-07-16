@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-16",
+      "changelog": "Generated via Depot v1.2. Buildings collision file update. Ocean depth, building foundations, and commercial zone map layers. Updated tiles.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/RIC.zip",
+      "sha256": "6edaf86fcda147463471fc93b052b794ea3a62a2cda4ed5d96484fb9bc6af73a"
+    },
+    {
       "version": "1.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-02-27",
