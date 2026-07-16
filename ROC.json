@@ -7,7 +7,7 @@
       "date": "2026-07-16",
       "changelog": "Generated via Depot v1.2. Buildings collision file update. Ocean depth, building foundations, and commercial zone map layers. Special demand schema used for mod integration. Updated tiles.",
       "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/ROC.zip",
-      "sha256": "40ec296a19474ece63cb39deecc90e54a00c1cde8d214a8b130ac602cf52a5e9"
+      "sha256": "fc31ebaa8277ebf11ff08aeabd73ef55b9046b60668aaba47c3db4ee040dc697"
     },
     {
       "version": "1.1.0",
