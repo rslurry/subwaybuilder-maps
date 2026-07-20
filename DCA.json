@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.2.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-19",
+      "changelog": "Added demand for the Pentagon.",
+      "download": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.8/DCA.zip",
+      "sha256": "d467a508b879cdcb0cd2ab024ff0eb8049cc230a3918a5c392fcd05c89d666b1"
+    },
+    {
       "version": "1.2.0",
       "game_version": ">=1.0.0",
       "date": "2026-07-16",
